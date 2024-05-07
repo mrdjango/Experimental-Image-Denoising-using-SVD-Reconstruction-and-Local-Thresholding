@@ -3,8 +3,7 @@ This combined approach attempts to remove noise by selectively filtering the inf
 
 
 ## Description:
-
-This Python code addresses image denoising using a combination of techniques:
+### I am currently working on this project
 
 1. **Block-wise Noise Addition:** It introduces controlled noise into the image by adding random values to localized blocks of pixels. This simulates a specific type of noise where corrupted areas appear in larger patches.
 
